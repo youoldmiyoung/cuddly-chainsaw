@@ -63,7 +63,13 @@ header h1 a {
 
 
 
-.post-entry h2 a,
+.post-entry h2 a {
+    
+    color: mediumslateblue;
+
+    text-decoration: none;
+
+}
 
 .post-entry h2 a:visited {
 
